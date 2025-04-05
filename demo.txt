@@ -1,1 +1,3 @@
 HI session 2
+
+git merge from staging to branch
